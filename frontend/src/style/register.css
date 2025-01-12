@@ -1,0 +1,22 @@
+.register {
+  height: 100%;
+  background-image: url("../assets/images/landing_background.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  /* width: 100%; */
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.form-inner2 {
+    height: 100%;
+    width: 30%;
+    min-width: 400px;
+    background-color: white;
+    float: right;
+    margin-top: -15px;
+    margin-right: -30px;
+  }
